@@ -1,5 +1,7 @@
 # IEP_Bot 
 
+![IEP_Bot](https://github.com/tmobley96/iep-bot/assets/124856260/1d1bc3ec-11f0-4f5e-b40a-b7237c242ef6)
+
 ## Project Description:
 The IEP Paragraph Generator is a Streamlit application designed to assist special education teachers and professionals in efficiently writing Individual Education Programs (IEPs) for students with special needs. The application provides a user-friendly interface that guides users through the process of inputting relevant student information and generates well-structured paragraphs for each section of the IEP document. By automating the paragraph generation process, this project aims to save valuable time and ensure consistency in the content of IEPs while maintaining the privacy of student information.
 
