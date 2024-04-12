@@ -1,4 +1,4 @@
-# IEP_Bot 
+# 🎓 IEP_Bot 
 
 ![IEP_Bot](https://github.com/tmobley96/iep-bot/assets/124856260/1d1bc3ec-11f0-4f5e-b40a-b7237c242ef6)
 
