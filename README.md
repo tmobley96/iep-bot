@@ -10,11 +10,6 @@ The primary objective of the IEP Paragraph Generator is to streamline the proces
 
 ## Project Purpose:
 The inspiration for the IEP Paragraph Generator stems from a personal experience of helping a mother, who is a special education teacher, write Individual Education Programs for her students. With a caseload of 57 students, the process of manually writing each IEP proved to be time-consuming and repetitive. Recognizing the potential to leverage technology to address this challenge, the idea of creating an application to automate and expedite the IEP writing process was born. By developing the IEP Paragraph Generator, the project aims to provide a practical solution that empowers special education teachers to create high-quality IEPs more efficiently, ultimately benefiting the students they serve.
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 
 ## FAQ
 
@@ -49,3 +44,7 @@ The current version of the application handles one student at a time. For handli
 #### 8. Are there any privacy concerns with entering student information into this application?
 
 Always ensure that the application complies with privacy laws and school policies regarding student data. Discuss with your administrator or IT department about any concerns regarding data handling and privacy.
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
